@@ -11,20 +11,11 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Suriyapriya (she/her). I’m a second-year Master’s student in Health Care Analytics and Information Technology at Carnegie Mellon University. My interests include data visualization, applied machine learning, and decision analytics in healthcare operations.  
+Outside academics, I enjoy singing and playing Guitar.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+In this course, I aim to deepen skills in narrative visualization, interactive dashboards. I’m also interested in effective critique methods and accessibility-first design for broader audiences.
 
 # Portfolio
 

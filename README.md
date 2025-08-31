@@ -16,15 +16,24 @@ I’m taking this course to refine my ability to communicate complex information
 # Portfolio
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This is my first data visualization assignment, where I analyze and visually represent a dataset on government debt. This page documents my design process, from initial sketches to the final product, applying the foundational principles of data visualization discussed in class.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+A significant two-part project applying the 'Critique by Design' methodology. This assignment involves a detailed analysis of an existing data visualization to identify its strengths and weaknesses, followed by a comprehensive redesign to improve its clarity, impact, and effectiveness.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My final project for this course, developed over several weeks. This comprehensive project involves selecting a unique dataset, crafting a compelling narrative, and designing and building a polished data visualization to tell that story. The project is broken down into three main parts, culminating in a final presentation.
+
+Part I: Project Proposal and Initial Sketches
+This phase covers the initial research, dataset selection, and a formal proposal outlining the project's goals, intended audience, and scope.
 [Part I](final-project-part-one)
+
+Part II: Draft and Peer Critique
+This stage focuses on developing a complete draft of the visualization based on the proposal. This version was presented during an in-class critique to gather feedback for refinement.
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+Part III: Final Visualization and Presentation
+The final submission includes the completed, polished data visualization and materials from the final in-class presentation.
+[Part III](final-project-part-three)
 
 

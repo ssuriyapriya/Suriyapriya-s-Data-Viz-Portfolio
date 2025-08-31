@@ -5,7 +5,7 @@ These portfolio templates are for setting up your Telling Stories with Data site
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/
-- This repository: https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio-templates/
+- This repository: https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio/
 
 # Portfolio
 This portfolio showcases projects from my "Telling Stories with Data" course at Carnegie Mellon University. Here, you'll find a collection of data-driven narratives and visualizations that highlight my ability to transform complex information into clear and compelling stories.

@@ -34,6 +34,7 @@ My design goal was to highlight long-term shifts rather than short-term fluctuat
 
 ## Assignment 3&4: [Critique by Design]
 Source: OECD Health Spending (https://www.oecd.org/en/data/indicators/health-spending.html)
+(Original Visualization)
 
 I selected this particular data visualization because it presents a rich, important dataset in a way that is functional but has clear and significant room for improvement. At first glance, the chart successfully shows the total health spending for various countries and gives a basic sense of how that spending is broken down. It is a very common and familiar chart type, which makes it a perfect candidate for a redesign that can demonstrate the principles of effective data visualization.
 

@@ -91,7 +91,9 @@ My final redesigned visualization, created in Tableau, shows this new, focused s
   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1600px';vizElement.style.height='1027px';} 
   else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='1027px';} 
   else { vizElement.style.width='100%';vizElement.style.height='1727px';}                     
-  var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
 This line chart shows health spending as a % of GDP from 1970 to 2019 for the United States compared to three other major developed nations.

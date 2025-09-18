@@ -135,14 +135,15 @@ By highlighting the U.S. line in blue and keeping the three comparison countries
 
 Ultimately, this redesign successfully transforms a simple, static list into a compelling and informative narrative that provides crucial historical context. It doesn't just show that U.S. health spending is high; it shows *how and when* it became a global outlier.
 
-**References**
+**References and Sources**
 
 1. Data Source: The data for this project was sourced from the OECD Health Statistics database, specifically focusing on health expenditure as a percentage of GDP from 1970 to 2019.
 
-2. Tools Used
-*Python: The initial data exploration and the creation of the "before" charts (the all-gray bar chart and the 10-line "spaghetti" plot) were done using Python with the Matplotlib and Seaborn libraries. This allowed for rapid prototyping of the initial, less effective visualizations.
+2. Python: The initial data exploration and the creation of the "before" charts (the all-gray bar chart and the 10-line "spaghetti" plot) were done using Python with the Matplotlib and Seaborn libraries. This allowed for rapid prototyping of the initial, less effective visualizations.
 
-*Tableau Public: The final, interactive dashboard was designed and built entirely in Tableau Public. For learning and troubleshooting specific features, I referenced the (https://www.geeksforgeeks.org/tableau/tableau-tutorial/) tutorial on GeeksforGeeks to better navigate the software's interface.
+3. Tableau Public: The final, interactive dashboard was designed and built entirely in Tableau Public.
+
+4.For learning and troubleshooting specific features, I referenced the (https://www.geeksforgeeks.org/tableau/tableau-tutorial/) tutorial on GeeksforGeeks to better navigate the software's interface.
 
 ## Final project
 My final project for this course, developed over several weeks. This comprehensive project involves selecting a unique dataset, crafting a compelling narrative, and designing and building a polished data visualization to tell that story. The project is broken down into three main parts, culminating in a final presentation.

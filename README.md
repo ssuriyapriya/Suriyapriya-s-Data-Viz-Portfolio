@@ -33,7 +33,8 @@ A key part of my design choice was in the color scheme: regions with Debt-to-GDP
 My design goal was to highlight long-term shifts rather than short-term fluctuations. For example, Southern Europe consistently shows some of the highest ratios, while Latin America and Eastern Europe remain much lower. Grouping by region makes these differences more visible than if I had kept each country separate. Compared to the heatmap I created earlier, I think this redesign is more effective because it allows me to tell a clearer story about how regions diverge over time. The heatmap was useful for spotting country-level variation, but this line visualization makes broader patterns and comparisons across regions stand out more clearly.
 
 ## Assignment 3&4: [Critique by Design]
-Source: [OECD Health Spending](https://www.oecd.org/en/data/indicators/health-spending.html)
+Source: ![OECD Health Spending](https://www.oecd.org/en/data/indicators/health-spending.html)
+
 ![The original Bar Chart](images/Original Visualization.png)
 
 I selected this particular data visualization because it presents a rich, important dataset in a way that is functional but has clear and significant room for improvement. At first glance, the chart successfully shows the total health spending for various countries and gives a basic sense of how that spending is broken down. It is a very common and familiar chart type, which makes it a perfect candidate for a redesign that can demonstrate the principles of effective data visualization.
@@ -116,7 +117,7 @@ The three KPI (Key Performance Indicator) boxes at the top serve as the dashboar
 ## The Bar Chart - Detailed Comparison and Exploration
 The horizontal bar chart serves as the detailed evidence for the KPIs. It allows the viewer to move beyond the summary and see the ranked comparison for themselves.
 
-**Strategic Highlighting:** The use of color is a perfect application of a preattentive attribute. The blue for the U.S. and the neutral gray for the other top 10 countries immediately draws the viewer's eye to the main subject. This makes the chart's primary point—the U.S. is in first place by a wide margin—instantly perceptible.
+**Strategic Highlighting:** The use of color is a perfect application of a preattentive attribute. The blue for the U.S. and the neutral gray for the other top 10 countries immediately draws the viewer's eye to the main subject. This makes the chart's primary point the U.S. is in first place by a wide margin instantly perceptible.
 
 **Interactivity for Deeper Analysis:** The sliders and filters transform the chart from a static image into an engaging, exploratory tool.
 

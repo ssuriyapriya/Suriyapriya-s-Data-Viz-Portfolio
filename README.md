@@ -33,7 +33,7 @@ A key part of my design choice was in the color scheme: regions with Debt-to-GDP
 My design goal was to highlight long-term shifts rather than short-term fluctuations. For example, Southern Europe consistently shows some of the highest ratios, while Latin America and Eastern Europe remain much lower. Grouping by region makes these differences more visible than if I had kept each country separate. Compared to the heatmap I created earlier, I think this redesign is more effective because it allows me to tell a clearer story about how regions diverge over time. The heatmap was useful for spotting country-level variation, but this line visualization makes broader patterns and comparisons across regions stand out more clearly.
 
 ## Assignment 3&4: [Critique by Design]
-Source: ![OECD Health Spending](https://www.oecd.org/en/data/indicators/health-spending.html)
+Source:(https://www.oecd.org/en/data/indicators/health-spending.html)
 
 ![The original Bar Chart](images/Original Visualization.png)
 
@@ -68,8 +68,11 @@ My initial wireframe was a quick pen-and-paper sketch. It focused on plotting th
 This initial plan was simple and focused on transforming the static comparison into a dynamic story.
 
 ![My Redesign Step 1](images/Bar Chart Draft.png)
+
 ![My Redesign Step 2](images/Line Chart Draft.png)
+
 ![My Redesign Step 3](images/Final Bar Chart.png)
+
 ![My Redesign Step 4](images/Final Line Chart.png)
 
 **Step 4: Testing and User Feedback**
@@ -79,6 +82,13 @@ I presented my sketches to a small group of peers to gather feedback before buil
 **Key Insights from Feedback:**
 
 To test my initial concepts, I sought feedback on my sketches from three peers with diverse backgrounds: a student in the MISM program, one from the MSPPM program, and an MBA student. The feedback was incredibly helpful and validated the overall direction of the redesign.
+
+| Question                                      | Interview 1 | Interview 2 | Interview 3 |
+|-----------------------------------------------|-------------|-------------|
+|  First, just take a look at this sketch. Can you tell me what you think this is showing? | 	It's a line chart showing health spending as a percentage of GDP over several decades. It compares the United States to a few other countries.  |  This is a wireframe for a time-series chart. It looks like it's designed to compare the trend of the blue line, the USA, against the other gray lines.         | This is a sketch of a time-series plot comparing health spending for the US against a few other reference countries. |
+|  What story or main message do you take away from this chart?                            |  The clear story is that U.S. spending was once in line with other nations but then began to diverge significantly, creating a massive gap over time. The annotation points out the start of this divergence.  |    It's telling me that the USA's spending went way up while the others stayed clustered together. The main point is how much of an outlier the US is and that this is a long-term trend.         | The key takeaway is that the US trend diverges significantly from the others after a certain point. It effectively shows the US becoming an outlier over time. |
+|  Is there anything here that you find particularly surprising, interesting, or confusing?|   The size of the gap is surprising. What's not confusing but is immediately missing for me is the data source. For any policy discussion, knowing the source is the first thing I look for to establish credibility. |   Nothing is confusing. I am interested in who the other countries are. Maybe an 'average' among top 6 countries would be an even stronger point of comparison with that of the United States.          | The acceleration is interesting. It's not confusing, but I'd immediately want to hover over the lines to see the specific data points for each year. It would be more powerful if it were interactive.|
+|  Is there anything you would change or do differently?                                   |Add the source. That's the most important change. I would also be interested to know if the y-axis is adjusted for inflation, though that might be too complex.             | I would make the title more like a newspaper headline that tells you the main finding right away. Also, maybe make an annotation box where the US spending begins to rise.            | Definitely build it to be interactive. Adding tooltips on hover is the biggest thing. A filter to let the user select which countries to compare against would also be a great feature.|
 
 There was a strong consensus among them: they all found the line chart concept far more compelling than the redesigned bar chart. They noted that while the bar chart was a clean and effective comparison for a single year, the line chart's ability to show the historical trend told a much richer and more impactful story.
 
@@ -144,6 +154,7 @@ Ultimately, this redesign successfully transforms a simple, static list into a c
 3. Tableau Public: The final, interactive dashboard was designed and built entirely in Tableau Public.
 
 4. For learning and troubleshooting specific features, I referenced the (https://www.geeksforgeeks.org/tableau/tableau-tutorial/) tutorial on GeeksforGeeks to better navigate the software's interface.
+
 
 ## Final project
 My final project for this course, developed over several weeks. This comprehensive project involves selecting a unique dataset, crafting a compelling narrative, and designing and building a polished data visualization to tell that story. The project is broken down into three main parts, culminating in a final presentation.

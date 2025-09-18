@@ -48,7 +48,7 @@ This project documents the process of redesigning a data visualization about hea
 
 The process began with a standard vertical bar chart, showing health spending for various countries from 1970-2019.
 
-**![The original bar chart]**([images/Line Chart Draft.png](https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio/blob/main/images/Line%20Chart%20Draft.png))
+![The original bar chart](images/Line Chart Draft.png)
 
 My initial critique, using Stephen Few's effectiveness profile, revealed several key insights. On the positive side, the chart was clean, used a proper zero-baseline, and was sorted, which made it easy to see the ranking of countries. However, the critique method made its weaknesses glaringly apparent:
 

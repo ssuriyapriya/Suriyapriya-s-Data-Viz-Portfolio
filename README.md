@@ -139,7 +139,7 @@ Ultimately, this redesign successfully transforms a simple, static list into a c
 
 1. Data Source: The data for this project was sourced from the OECD Health Statistics database, specifically focusing on health expenditure as a percentage of GDP from 1970 to 2019.
 
-2. Python: The initial data exploration and the creation of the "before" charts (the all-gray bar chart and the 10-line "spaghetti" plot) were done using Python with the Matplotlib and Seaborn libraries. This allowed for rapid prototyping of the initial, less effective visualizations.
+2. Python: The initial data exploration and the creation of the "before" charts (the all-gray bar chart and the 10-line "spaghetti" plot) were done using Python with the Matplotlib and Seaborn libraries.
 
 3. Tableau Public: The final, interactive dashboard was designed and built entirely in Tableau Public.
 

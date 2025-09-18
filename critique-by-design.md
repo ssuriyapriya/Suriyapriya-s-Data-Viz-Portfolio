@@ -35,8 +35,11 @@ My initial wireframe was a quick pen-and-paper sketch. It focused on plotting th
 This initial plan was simple and focused on transforming the static comparison into a dynamic story.
 
 ![My Redesign Step 1](images/Bar Chart Draft.png)
+
 ![My Redesign Step 2](images/Line Chart Draft.png)
+
 ![My Redesign Step 3](images/Final Bar Chart.png)
+
 ![My Redesign Step 4](images/Final Line Chart.png)
 
 **Step 4: Testing and User Feedback**
@@ -47,6 +50,13 @@ I presented my sketches to a small group of peers to gather feedback before buil
 
 To test my initial concepts, I sought feedback on my sketches from three peers with diverse backgrounds: a student in the MISM program, one from the MSPPM program, and an MBA student. The feedback was incredibly helpful and validated the overall direction of the redesign.
 
+| Question                                      | Interview 1 | Interview 2 | Interview 3 |
+|-----------------------------------------------|-------------|-------------|
+|  First, just take a look at this sketch. Can you tell me what you think this is showing? | 	It's a line chart showing health spending as a percentage of GDP over several decades. It compares the United States to a few other countries.  |  This is a wireframe for a time-series chart. It looks like it's designed to compare the trend of the blue line, the USA, against the other gray lines."          | This is a sketch of a time-series plot comparing health spending for the US against a few other reference countries. |
+|  What story or main message do you take away from this chart?                            |  The clear story is that U.S. spending was once in line with other nations but then began to diverge significantly, creating a massive gap over time. The annotation points out the start of this divergence.  |    It's telling me that the USA's spending went way up while the others stayed clustered together. The main point is how much of an outlier the US is and that this is a long-term trend.         | The key takeaway is that the US trend diverges significantly from the others after a certain point. It effectively shows the US becoming an outlier over time. |
+|  Is there anything here that you find particularly surprising, interesting, or confusing?|   The size of the gap is surprising. What's not confusing but is immediately missing for me is the data source. For any policy discussion, knowing the source is the first thing I look for to establish credibility. |   Nothing is confusing. I am interested in who the other countries are. Maybe an 'average' among top 6 countries would be an even stronger point of comparison with that of the United States.          | The acceleration is interesting. It's not confusing, but I'd immediately want to hover over the lines to see the specific data points for each year. It would be more powerful if it were interactive.|
+|  Is there anything you would change or do differently?                                   |Add the source. That's the most important change. I would also be interested to know if the y-axis is adjusted for inflation, though that might be too complex.             | I would make the title more like a newspaper headline that tells you the main finding right away. Also, maybe make an annotation box where the US spending begins to rise.            | Definitely build it to be interactive. Adding tooltips on hover is the biggest thing. A filter to let the user select which countries to compare against would also be a great feature.|
+
 There was a strong consensus among them: they all found the line chart concept far more compelling than the redesigned bar chart. They noted that while the bar chart was a clean and effective comparison for a single year, the line chart's ability to show the historical trend told a much richer and more impactful story.
 
 Beyond this general agreement, they provided specific, actionable feedback that directly influenced the final design:
@@ -56,17 +66,6 @@ The MSPPM student, accustomed to policy briefs, immediately pointed out the need
 The MBA student was focused on the narrative and suggested I should explicitly pinpoint the moment "where the US began to emerge" as an outlier. They felt that highlighting this key inflection point was crucial to making the story's main takeaway impossible to miss.
 
 This feedback was instrumental. It led to two direct improvements in the final design: the inclusion of a clearly visible source at the bottom of the visualization and making the annotation at 1981 a central, explanatory feature of the line chart.
-
-| Question                                                                                 | Interview 1 | Interview 2 |
-|------------------------------------------------------------------------------------------|-------------|-------------|
-|  First, just take a look at this sketch. Can you tell me what you think this is showing? | 	"It's a line chart showing health spending as a percentage of GDP over several decades. It compares the United States to a few other countries."            |             |
-|  What story or main message do you take away from this chart?                            |             |             |
-|  Is there anything here that you find particularly surprising, interesting, or confusing?|             |             |
-|  Is there anything you would change or do differently?                                   |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 **Step 5: The Final Redesigned Visualization**
 

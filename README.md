@@ -143,7 +143,7 @@ Ultimately, this redesign successfully transforms a simple, static list into a c
 
 3. Tableau Public: The final, interactive dashboard was designed and built entirely in Tableau Public.
 
-4.For learning and troubleshooting specific features, I referenced the (https://www.geeksforgeeks.org/tableau/tableau-tutorial/) tutorial on GeeksforGeeks to better navigate the software's interface.
+4. For learning and troubleshooting specific features, I referenced the (https://www.geeksforgeeks.org/tableau/tableau-tutorial/) tutorial on GeeksforGeeks to better navigate the software's interface.
 
 ## Final project
 My final project for this course, developed over several weeks. This comprehensive project involves selecting a unique dataset, crafting a compelling narrative, and designing and building a polished data visualization to tell that story. The project is broken down into three main parts, culminating in a final presentation.

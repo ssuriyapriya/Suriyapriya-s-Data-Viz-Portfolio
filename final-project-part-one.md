@@ -23,9 +23,11 @@ As an inpatient department head, I want to see which diagnoses have the longest 
 The story begins at the hospital's "front door", the outpatient clinics. We introduce the high-level challenge of appointment no-shows, framing it as the first major hurdle in the patient journey that prevents timely access to care. The narrative then moves inside the hospital to the inpatient wards. Here, we analyze the Average Length of Stay. The tension builds as we uncover that patients with certain diagnoses are staying significantly longer than others, creating a bed-blocking puzzle that strains hospital capacity. The story's "aha!" moment is the visualization of the complete, interconnected system. A flowchart will show how a high no-show rate for pre-surgical consultations (the outpatient problem) directly contributes to scheduling chaos and inefficient bed use (the inpatient problem). It will also illustrate how long inpatient stays create a backlog of discharged patients who then struggle to book timely follow-up appointments, perpetuating a cycle of poor access. Having identified the key friction points, we propose specific, data-driven solutions for each area—such as a targeted reminder system for high-risk outpatient appointments and a streamlined discharge process for specific inpatient diagnoses. The story concludes with a powerful call to action, urging for a more integrated approach to managing hospital operations, breaking down the silos between outpatient and inpatient services to create a seamless, efficient patient journey from start to finish.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![Sketch 1](images/Patients by Department.png)
+![Sketch 2](images/LOS.png)
+![Sketch 3]()
+![Story Arc]()
 
 # The data
 This project synthetically combines three distinct, publicly-available datasets from Kaggle to construct a comprehensive model of a hospital's operations. The first dataset, No Show Appointments, provides the foundation for analyzing the outpatient experience. It contains over 100,000 anonymized records, which will be used to dissect the no-show rate by specialty, appointment type, and other factors. This dataset is critical for understanding the "access to care" portion of the story.

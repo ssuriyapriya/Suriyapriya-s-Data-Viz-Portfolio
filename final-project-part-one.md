@@ -1,8 +1,5 @@
 | [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 This project tells a comprehensive data story of the complete patient journey, investigating the critical connection between a hospital's outpatient "front door" and its inpatient operational efficiency. By combining three distinct datasets, we can follow the patient pathway from the initial attempt to schedule an appointment all the way through to their discharge. The central narrative is one of patient flow, identifying key friction points in both accessing and receiving care.
 
@@ -27,7 +24,7 @@ The story begins at the hospital's "front door", the outpatient clinics. We intr
 ![Sketch 1](images/Patients by Department.png)
 ![Sketch 2](images/LOS.png)
 ![Story Arc](images/storyarc sketch.jpg)
-![Dashbaord Sketch](images/storyarc sketch.jpg)
+![Dashbaord Sketch](images/dashboard sketch.jpg)
 
 # The data
 This project synthetically combines three distinct, publicly-available datasets from Kaggle to construct a comprehensive model of a hospital's operations. The first dataset, No Show Appointments, provides the foundation for analyzing the outpatient experience. It contains over 100,000 anonymized records, which will be used to dissect the no-show rate by specialty, appointment type, and other factors. This dataset is critical for understanding the "access to care" portion of the story.

@@ -161,7 +161,7 @@ My final project for this course, developed over several weeks. This comprehensi
 
 Part I: Project Proposal and Initial Sketches
 This phase covers the initial research, dataset selection, and a formal proposal outlining the project's goals, intended audience, and scope.
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
 
 Part II: Draft and Peer Critique
 This stage focuses on developing a complete draft of the visualization based on the proposal. This version was presented during an in-class critique to gather feedback for refinement.

@@ -26,8 +26,8 @@ The story begins at the hospital's "front door", the outpatient clinics. We intr
 
 ![Sketch 1](images/Patients by Department.png)
 ![Sketch 2](images/LOS.png)
-![Sketch 3]()
-![Story Arc]()
+![Story Arc](images/storyarc sketch.jpg)
+![Dashbaord Sketch](images/storyarc sketch.jpg)
 
 # The data
 This project synthetically combines three distinct, publicly-available datasets from Kaggle to construct a comprehensive model of a hospital's operations. The first dataset, No Show Appointments, provides the foundation for analyzing the outpatient experience. It contains over 100,000 anonymized records, which will be used to dissect the no-show rate by specialty, appointment type, and other factors. This dataset is critical for understanding the "access to care" portion of the story.

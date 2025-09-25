@@ -39,7 +39,7 @@ The inpatient narrative is built using two datasets: Hospital Management Dataset
 
 # Method and medium
 
-The final project will be delivered as a standalone, interactive digital narrative, designed to guide the audience through a cohesive data story. My methodology involves leveraging the specific strengths of Tableau Public for building interactive data visualizations.
+The final project will be delivered as a standalone, interactive digital narrative. All data visualizations will be created using Tableau Public to allow for dynamic filtering and exploration by the user. These interactive dashboards will then be embedded into a long-form, scrolling story built with Shorthand. This combination of tools is ideal for bringing together the data, narrative text, and key insights into a single, seamless, and persuasive final product that is both informative and engaging.
 
 My process within Tableau will be to construct a series of worksheets, each telling a part of the patient journey. My workflow for creating each dashboard will be as follows:
 
@@ -47,7 +47,7 @@ Executive Summary with KPI Cards: I will begin by creating four summary KPI (Key
 
 Building Individual Visualizations: Next, I will create the primary data visualizations in individual worksheets. For example, I will build a line chart to analyze the trend of Average Length of Stay (LoS) over time (e.g., month-by-month). Similarly, the bar chart comparing LoS by diagnosis and the donut chart for no-shows will each be built in their own dedicated worksheets.
 
-Assembling the Dashboard: Once all the individual worksheet components (KPI cards and charts) are complete, I will arrange them into a single, cohesive dashboard. The layout will be intentionally designed to guide the viewer's eye logically through the data—from the high-level KPIs at the top to the more detailed charts below. I will enable dynamic filtering, allowing a user to click on a diagnosis in one chart and see all other charts on the dashboard update in real-time.
+Assembling the Dashboard: Once all the individual worksheet components (KPI cards and charts) are complete, I will arrange them into a single, cohesive dashboard. The layout will be intentionally designed to guide the viewer's eye logically through the data, from the high-level KPIs at the top to the more detailed charts below. I will enable dynamic filtering, allowing a user to click on a diagnosis in one chart and see all other charts on the dashboard update in real-time.
 
 ## References
 

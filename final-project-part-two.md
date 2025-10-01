@@ -53,14 +53,16 @@ Since it's hard to find those exact people, I will be interviewing three individ
 - Consistent Feedback: All three participants understood the two separate problems (no-shows and long stays) but felt the connection between them needed to be made more explicit earlier in the story. Two of the three participants mentioned that the KPI cards were very helpful for getting the main numbers upfront.
 - Conflicting Feedback: Participant 1 thought the story was a good length, while Participant 3 felt it could be shorter.
 
-## Storyboard
+# Storyboard
 
 
-# Changes Planned for Part III:
+## Changes Planned for Part III:
 Problem: The connection between the outpatient and inpatient stories is not clear enough.
+
 Planned Change: I will add a dedicated transition paragraph after the no-show analysis that explicitly states: "This backlog at the front door has a direct impact on the hospital's internal operations..." I may also create a simple flowchart graphic to visually link the two concepts.
 
 Feedback: Users understood the highlighted charts well.
+
 Planned Change: I will apply the same highlighting technique to the "Patient Load by Specialization" chart to draw attention to the busiest departments, reinforcing that design's effectiveness.
 
 ## References

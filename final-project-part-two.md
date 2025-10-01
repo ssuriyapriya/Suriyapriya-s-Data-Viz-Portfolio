@@ -1,4 +1,4 @@
-| [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three) |
 
 # User research 
 
@@ -46,8 +46,7 @@ Since it's hard to find those exact people, I will be interviewing three individ
 |-------------------------|--------------------------------|-------------|-------------|
 | What is the main story? |"I think it's about how no-shows cause delays inside the hospital."       |    "It seems to be two separate stories, one about missed appointments and one about how long people stay."         |       "The main message is that the hospital has efficiency problems."      |
 |       Was anything confusing?                  |        "The jump from the outpatient to inpatient part was a bit sudden. I was missing the bridge."                        |        "No, the flow made sense to me. The text connected the ideas well."     |       "I wasn't sure what a KPI card was at first, but I figured it out."      |
-|           Takeaway from 'No-Show' chart?              |   "That therapy is the biggest problem area. The color highlight made that obvious."                             |      "That a lot of therapy appointments are being missed, which seems important."       |  "It clearly shows where to focus efforts to reduce no-shows."
-           |
+|           Takeaway from 'No-Show' chart?              |   "That therapy is the biggest problem area. The color highlight made that obvious."                             |      "That a lot of therapy appointments are being missed, which seems important."       |  "It clearly shows where to focus efforts to reduce no-shows."|
 |         Takeaway from 'Length of Stay' chart?                |           "That the real issue isn't the average patient, it's the small number who stay for a very long time."                     |      "The peak makes sense, but the annotation helped me understand why that 2-5 day range matters."       |    "Most people get out pretty fast."         |
 
 # Summary of Findings:
@@ -60,6 +59,7 @@ Since it's hard to find those exact people, I will be interviewing three individ
 # Changes Planned for Part III:
 Problem: The connection between the outpatient and inpatient stories is not clear enough.
 Planned Change: I will add a dedicated transition paragraph after the no-show analysis that explicitly states: "This backlog at the front door has a direct impact on the hospital's internal operations..." I may also create a simple flowchart graphic to visually link the two concepts.
+
 Feedback: Users understood the highlighted charts well.
 Planned Change: I will apply the same highlighting technique to the "Patient Load by Specialization" chart to draw attention to the busiest departments, reinforcing that design's effectiveness.
 

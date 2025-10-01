@@ -1,4 +1,4 @@
-| [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/
 - This repository: https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio/

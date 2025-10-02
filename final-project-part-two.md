@@ -67,6 +67,7 @@ Planned Change: I will apply the same highlighting technique to the "Patient Loa
 
 ## References
 1. [Healthcare dashboards example](https://www.gooddata.com/blog/healthcare-dashboards-examples-use-cases-and-benefits/)
+2. [Toker, K., Ataş, K., Mayadağlı, A., Görmezoğlu, Z., Tuncay, I., & Kazancıoğlu, R. (2024). A solution to reduce the impact of patients' no-show behavior on hospital operating costs: Artificial intelligence-based appointment system. Healthcare, 12(21), 2160.](https://doi.org/10.3390/healthcare12212160)
 
 ## AI acknowledgements
 ChatGPT was used as a learning and development tool during this project. Specifically, it was to understand and troubleshoot the technical workflows for creating specific visualizations in Tableau, such as calculated fields and annotations. It was also used to learn the step-by-step process of embedding Tableau Public visualizations into the Shorthand platform.

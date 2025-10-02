@@ -54,7 +54,7 @@ Since it's hard to find those exact people, I will be interviewing three individ
 - Conflicting Feedback: Participant 1 thought the story was a good length, while Participant 3 felt it could be shorter.
 
 # Storyboard
-
+[Link to the storyboard](https://preview.shorthand.com/CSJ3NCKNzySEJgId)
 
 ## Changes Planned for Part III:
 Problem: The connection between the outpatient and inpatient stories is not clear enough.

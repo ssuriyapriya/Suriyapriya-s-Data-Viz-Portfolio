@@ -1,7 +1,7 @@
 | [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-- Web page URL: https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/
-- This repository: https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio/
+- [Web page URL:] (https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/)
+- [This repository:] (https://github.com/ssuriyapriya/Suriyapriya-s-Data-Viz-Portfolio/)
 
 # Portfolio
 This portfolio showcases projects from my "Telling Stories with Data" course at Carnegie Mellon University. Here, you'll find a collection of data-driven narratives and visualizations that highlight my ability to transform complex information into clear and compelling stories.

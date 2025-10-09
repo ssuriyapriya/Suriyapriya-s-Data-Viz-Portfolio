@@ -1,7 +1,6 @@
 | [home page](https://ssuriyapriya.github.io/Suriyapriya-s-Data-Viz-Portfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 Source: 
-[OECD Health Spending](https://www.oecd.org/en/data/indicators/health-spending.html)
 
 ![The original Bar Chart](images/Original Visualization.png)
 

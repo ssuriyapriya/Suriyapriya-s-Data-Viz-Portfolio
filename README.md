@@ -33,7 +33,7 @@ A key part of my design choice was in the color scheme: regions with Debt-to-GDP
 My design goal was to highlight long-term shifts rather than short-term fluctuations. For example, Southern Europe consistently shows some of the highest ratios, while Latin America and Eastern Europe remain much lower. Grouping by region makes these differences more visible than if I had kept each country separate. Compared to the heatmap I created earlier, I think this redesign is more effective because it allows me to tell a clearer story about how regions diverge over time. The heatmap was useful for spotting country-level variation, but this line visualization makes broader patterns and comparisons across regions stand out more clearly.
 
 ## Assignment 3&4: [Critique by Design]
-Source: ![OECS Health Spending](https://www.oecd.org/en/data/indicators/health-spending.html)
+Source: 
 
 ![The original Bar Chart](images/Original Visualization.png)
 
